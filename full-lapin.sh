@@ -203,7 +203,7 @@ echo "Type sudo reboot"
 sudo pacman -S --noconfirm --needed archey3 baobab clementine conky curl
 sudo pacman -S --noconfirm --needed dconf-editor
 sudo pacman -S --noconfirm --needed dmidecode 
-sudo pacman -S --noconfirm --needed evince evolution firefox
+sudo pacman -S --noconfirm --needed evince mailspring firefox
 sudo pacman -S --noconfirm --needed galculator gimp git gksu glances gnome-disk-utility 
 sudo pacman -S --noconfirm --needed gnome-font-viewer gnome-screenshot gnome-system-monitor gnome-terminal gnome-tweak-tool 
 sudo pacman -S --noconfirm --needed gparted gpick grsync
