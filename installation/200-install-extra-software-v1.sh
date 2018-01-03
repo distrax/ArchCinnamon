@@ -13,13 +13,13 @@ set -e
 
 # Atom
 
-#sh install-atom-v1.sh
+sh install-atom-v1.sh
 
 ###############################################################################################
 
 # Awesome font for icons on i3blocks.conf
 
-#sh install-awesome-font-v1.sh
+sh install-awesome-font-v1.sh
 
 ###############################################################################################
 
@@ -31,7 +31,7 @@ set -e
 
 # Dropbox
 
-#sh install-dropbox-v1.sh
+sh install-dropbox-v1.sh
 
 ###############################################################################################
 
@@ -73,7 +73,7 @@ sh install-spotify-v1.sh
 
 # Sublime text 3
 
-sh install-sublime-text-v1.sh
+#sh install-sublime-text-v1.sh
 
 ###############################################################################################
 
